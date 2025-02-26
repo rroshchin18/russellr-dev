@@ -31,10 +31,10 @@ export const SOCIALS: Socials = [
   },
   {
     NAME: "GitHub",
-    HREF: "https://github.com/trevortylerlee",
+    HREF: "https://github.com/rroshchin18",
   },
   {
     NAME: "Website",
-    HREF: "https://trevortylerlee.com",
+    HREF: "https://www.russellr.dev",
   },
 ];
